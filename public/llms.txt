@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover comprehensive real property management, investment sales, and leasing services tailored to maximize your portfolio returns and streamline asset operations.
+
+### Opportunities
+https://example.com/opportunities
+Browse curated real estate investment opportunities with instant asset requests and advanced address lookup. Register today to access premium property listings.
+
+### Services
+https://example.com/services
+Full-service property management including sales, leasing, and asset management. Professional solutions designed to protect your investments and maximize value.
+
+### Contact
+https://example.com/contact
+Ready to elevate your real estate portfolio? Contact our property management specialists for personalized consultation and discover how we can serve your needs.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
